@@ -1,4 +1,4 @@
-# Relocation to Open Space
+# Relocation to Open Space*
 
 ### Time constraints: 1 sec
 ### Memory constraints: 256 Mb
