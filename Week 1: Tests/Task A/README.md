@@ -1,2 +1,3 @@
 Плот
+
 ![alt text](https://contest.yandex.ru/testsys/statement-file?hash=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..WtKkj8X7L1KKeLXV.ilJsL-F4DtGaoTnb-iKpX7VgxjtDYJMcRBVaQowX7OJGc9OXdPmI7PqbrKZBHdU7bGmlDfHSdm8swi2FoIah7_MUbLdjlw.Lpa_elDg5pSI4XVyggoxMQ)
