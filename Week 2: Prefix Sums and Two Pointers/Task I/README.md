@@ -1,4 +1,4 @@
-# Studying Algorithms
+# Studying Algorithms*
 
 ### Time constraints: 1 sec
 ### Memory constraints: 256 Mb
