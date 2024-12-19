@@ -2,10 +2,13 @@
 
 ![alt text](https://contest.yandex.ru/testsys/statement-file?hash=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..WtKkj8X7L1KKeLXV.ilJsL-F4DtGaoTnb-iKpX7VgxjtDYJMcRBVaQowX7OJGc9OXdPmI7PqbrKZBHdU7bGmlDfHSdm8swi2FoIah7_MUbLdjlw.Lpa_elDg5pSI4XVyggoxMQ)
 
+### Time constraints: 1 sec
+### Memory constraints: 256 Mb
+
 ### Description:
 In the middle of the lake, there is a raft shaped like a rectangle. The sides of the raft are aligned along parallels and meridians. Let's introduce a coordinate system where the OX axis points east and the OY axis points north. Let the southwest corner of the raft have coordinates (x_1, y_1), and the northeast corner have coordinates (x_2, y_2).
 
-A swimmer is located at a point with coordinates (x,y). Determine which side of the raft (north, south, west, or east) or which corner of the raft (northwest, northeast, southwest, or southeast) the swimmer should swim towards to reach the raft as quickly as possible.
+A swimmer is located at a point with coordinates (x, y). Determine which side of the raft (north, south, west, or east) or which corner of the raft (northwest, northeast, southwest, or southeast) the swimmer should swim towards to reach the raft as quickly as possible.
 
 ### Input constraints
 The program receives six numbers as input in the following order:
@@ -16,3 +19,4 @@ The program receives six numbers as input in the following order:
 All numbers are integers and do not exceed 100 in absolute value. It is guaranteed that x_1 < x_2, y_1 < y_2, x != x_1, x != x_2, y != y_1, y != y_2. Thus, the swimmer's coordinates are outside the raft.
 
 ### Output requirements
+If the swimmer should swim towards the northern side of the raft, the program should output the symbol "N"; for the southern side, it should output "S"; for the western side, "W"; and for the eastern side, "E". If the swimmer should swim towards a corner of the raft, one of the following strings should be output: "NW", "NE", "SW", "SE".
