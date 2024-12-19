@@ -1,4 +1,4 @@
-# Automated Warehouse
+# Automated Warehouse*
 
 ### Time constraint: 1 sec
 ### Memory constraint: 256 Mb
