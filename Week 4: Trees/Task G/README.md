@@ -3,6 +3,8 @@
 ### Time constraints: 10 secs
 ### Memory constraints: 512 Mb
 
+![alt_text](https://contest.yandex.ru/testsys/statement-file?hash=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..QrG1uZFWDYeW_IWL.Ol0VDpinG6R6i-I0UQctSgWKpBMoB49cYWlJ0Js7fTkqz6YR6jnIldc3-wxrJIhIKpn1wGGqYbcBC5-PlfyCQTMG8GUuMI7PdVs.2ScdOm5ZRGfbEdSXanbRow)
+
 ### Description:
 In the park, there are two very tall trees, each with hollows located one below the other at equal distances. One day, N woodpeckers decided to inhabit these hollows. Some of them are acquainted and would like to be able to visit each other. The woodpeckers fly in straight lines and very quickly. To reduce the likelihood of collisions, they decided to settle according to the following principle:
 - Each pair of woodpeckers who wish to visit each other must live on different trees. The segments connecting the hollows of acquainted woodpeckers do not intersect (although their endpoints may coincide).
