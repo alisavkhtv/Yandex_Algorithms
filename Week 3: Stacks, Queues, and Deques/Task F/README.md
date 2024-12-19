@@ -1,7 +1,7 @@
 # Minimum Lexicographic Valid Sequence of Parentheses
 
-### Time constraints:
-### Memory constraints:
+### Time constraints: 1 sec
+### Memory constraints: 64 Mb
 
 ### Description:
 Let's recall the definition of a valid parenthesis sequence (VPS):
