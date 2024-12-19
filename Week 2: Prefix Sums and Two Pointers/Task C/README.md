@@ -1,7 +1,7 @@
 # The City of Che
 
-### Time constraints:
-### Memory constraints:
+### Time constraints: 1 sec
+### Memory constraints: 64 Mb
 
 ### Description:
 In the city of Che, there is a pedestrian street that is one of the most popular places for residents to walk. Along this street, there are n amusing monuments. A girl named Masha from the city of Che likes two boys from her school and cannot decide between them. To make a final decision, she has decided to arrange a date with both boys at the same time. Masha wants to choose two monuments on the pedestrian street where the boys will wait for her. However, she wants to select monuments such that the boys do not see each other. Masha knows that due to the fog, the boys will only see each other if they are within r meters of each other. Masha is curious about how many ways there are to choose two different monuments for arranging the dates.
