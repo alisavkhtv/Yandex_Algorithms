@@ -6,7 +6,7 @@
 ### Description:
 Vasya is preparing for the algorithmic section of an interview and has found that he needs to study n algorithms. He has superficially studied each of them and characterized the i-th algorithm with two parameters: 
 - a_i (interestingness)
-- b_i (usefulness).
+- b_i (usefulness)
 
 Vasya works as a system administrator at a research base in Antarctica and is in no hurry. He will study one algorithm per day. If he is bored, he will study the most interesting algorithm (with the maximum a_i) from all the algorithms that have not yet been studied. If he is in an inspired mood, he will choose to study the most useful algorithm (with the maximum b_i) from those that are still available.
 
