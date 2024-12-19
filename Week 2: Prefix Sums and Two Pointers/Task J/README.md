@@ -15,7 +15,7 @@ For example, if the weights of the pieces of evidence are ⟨3, 3, 3, 4, 4, 5⟩
 The pieces of evidence require careful examination, so Benoit Blanc repeats this process m times, starting from the piece of evidence numbered x_i in the i-th iteration. Help him quickly determine which piece of evidence he will stop at in each case.
 
 ### Input:
-The first line contains an integer n — the number of pieces of evidence (1 ≤ n ≤ 4*10ˆ5). The second line contains n integers separated by spaces: a_i — the weights of the pieces of evidence in their order (1 ≤ a_i ≤ 10ˆ9). The next line contains two integers separated by space: m and k — the number of experiments and the maximum number of moves between pieces with equal weight (1 ≤ m ≤ 4*10ˆ5; 0 ≤ k ≤ n). The last line contains m integers separated by spaces: x_i — the indices of the pieces of evidence from which Benoit Blanc will start his investigation (1 ≤ x_i ≤ n.
+The first line contains an integer n — the number of pieces of evidence (1 ≤ n ≤ 4* 10ˆ5). The second line contains n integers separated by spaces: a_i — the weights of the pieces of evidence in their order (1 ≤ a_i ≤ 10ˆ9). The next line contains two integers separated by space: m and k — the number of experiments and the maximum number of moves between pieces with equal weight (1 ≤ m ≤ 4*10ˆ5; 0 ≤ k ≤ n). The last line contains m integers separated by spaces: x_i — the indices of the pieces of evidence from which Benoit Blanc will start his investigation (1 ≤ x_i ≤ n.
 
 ### Output:
 Output m integers from 1 to n separated by spaces; each integer should represent the index of the piece of evidence where the detective will stop in each experiment. 
