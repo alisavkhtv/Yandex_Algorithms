@@ -3,4 +3,4 @@ Python solutions to 32 out of 35 algorithmic interview-style questions from the 
 
 Some of the tasks in weeks 2-4 are marked with an asterisk. This means that these problems are of higher level, and for the competition purposes, it was important how many trials were utilized to achieve the correct solution. Also, the tests for these tasks were not available.
 
-All tasks in these competition were given in Russian but for the convenience, I have translated them into English.
+All tasks in these competition were given in Russian but for convenience, I have translated them into English.
