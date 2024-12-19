@@ -12,8 +12,8 @@ You need to implement a data structure that supports these operations.
 
 ### Input:
 The first line contains an integer n — the number of stack operations (1 ≤ n ≤100000). The following n lines describe the stack operations. Each operation is one of three types:
-- + x — add the number x to the stack (1 ≤ x ≤ 10ˆ9)
-- - — remove the top element from the stack (it is guaranteed that the stack is not empty at this moment)
+- '+' x — add the number x to the stack (1 ≤ x ≤ 10ˆ9)
+- '-' — remove the top element from the stack (it is guaranteed that the stack is not empty at this moment)
 - ? k — calculate and output the sum of the top k elements in the stack (it is guaranteed that there are at least k elements in the stack).
 
 Initially, the stack is empty.
